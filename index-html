@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tethered ADHD</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+    }
+    .header {
+      background-color: #ADD8E6;
+      padding: 20px;
+    }
+    .navigation {
+      display: flex;
+      justify-content: space-between;
+    }
+    .navigation a {
+      color: #000;
+      padding: 10px 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .navigation a:hover {
+      background-color: #E0F2F1;
+    }
+    .hero {
+      background-color: #ADD8E6;
+      padding: 50px;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 3em;
+      color: #fff;
+      margin-bottom: 10px;
+    }
+    .hero p {
+      font-size: 1.5em;
+      color: #fff;
+    }
+    .featured-tips,
+    .forum-highlights {
+      padding: 20px;
+    }
+    .featured-tips h2,
+    .forum-highlights h2 {
+      font-size: 1.2em;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="navigation">
+      <a href="#">Home</a>
+      <a href="#">Gallery</a>
+      <a href="#">Submission Page</a>
+      <a href="#">Hipp</a>
+      <a href="#">Resource</a>
+      <a href="#">About</a>
+      <a href="#">Forum</a>
+      <a href="#">Help</a>
+    </div>
+  </header>
+  <section class="hero">
+    <h1>Tethered</h1>
+    <p>Welcome to ADHD</p>
+  </section>
+  <section class="featured-tips">
+    <h2>Featured Tips</h2>
+    <p>Falastuce ta i and av foer orgaatioi. vish to ne fov!</p>
+  </section>
+  <section class="forum-highlights">
+    <h2>Forum Highlights</h2>
+    <p>Addnd sb Deremo, Tips, Forum, Resources</p>
+  </section>
+</body>
+</html>
